@@ -9,3 +9,7 @@ As stated above, the main purpose is to provide simple example for git training 
 
 ## Deployment
 This is a simple web project, deployment can be on any server or even local file system
+
+## Copyrights
+2020, Git Training
+
