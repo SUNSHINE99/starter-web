@@ -11,6 +11,7 @@ Please fork this repo and then issue a pull request
 ## Deployment
 This is a simple web project, deployment can be on any server or even local file system
 
+This is emergency fix
 ## Copyrights
 2021, Git Training, All Rights Reserved
 
