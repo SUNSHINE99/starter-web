@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is a simple web project to show how git and github works together
+This is a simple web project to show how git and github works together. 
+Adding a line for rebasing
 ## Introduction
 This example is to show different parts of the Git repository and various commands using a web project.
 ## Purpose
