@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ravi Verma cs.ravi.verma@gmail.com ravi.verma
 
 # THANKS
 
